@@ -10,7 +10,12 @@ def key_for_min_value(name_hash)
      lowest_value = v
      lowest_key = k
     end
+  end
+lowest_key
+end
+
+name_hash.each do
+  if condition
 
   end
-  key
 end
